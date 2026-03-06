@@ -1,0 +1,45 @@
+/* Set a black background and gold text for the whole page */
+body {
+  background-color: black;
+  color: gold;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Basic styling for headings and select element */
+h1 {
+  margin-bottom: 20px;
+}
+
+select {
+  padding: 5px;
+  margin-bottom: 20px;
+  background-color: #222;
+  border: 1px solid gold;
+  color: gold;
+}
+
+/* Each team's collapsible section */
+details {
+  margin-bottom: 10px;
+  border: 1px solid gold;
+  padding: 10px;
+  max-width: 600px;
+  background-color: #111;
+}
+
+/* Summary styling for clarity */
+summary {
+  font-weight: bold;
+  cursor: pointer;
+  color: gold;
+}
+
+/* Style for the content inside each details block */
+.team-info {
+  margin-top: 10px;
+  font-size: 0.9em;
+  line-height: 1.4;
+  white-space: pre-wrap;
+  color: gold;
+}

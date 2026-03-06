@@ -1,0 +1,204 @@
+3467,EV,14,true,0,0,0,1,0,0,true,false,,0,0,0,2,1,2,false,false,Dc,SA,No Card,
+2342,EV,15,true,0,0,0,2,0,0,false,false,,0,2,2,3,0,0,true,false,P,DC,No Card,
+8708,EV,16,true,0,0,0,1,0,0,false,false,,0,1,3,3,0,0,false,false,P,DC,No Card,
+9443,EV,17,true,1,0,0,0,0,0,false,false,3,0,0,0,4,0,0,false,false,No,DC,No Card,
+694,EV,18,true,0,0,0,4,0,0,false,true,3,5,2,4,6,4,0,false,false,Dc,MP,No Card,
+131,EV,19,true,0,0,0,1,0,0,false,true,4,0,1,1,2,0,2,false,false,P,DC,No Card,
+4048,EV,20,true,0,1,0,0,0,0,false,true,3,0,2,2,5,0,0,false,false,No,DC,No Card,Locked in at 1:00
+1073,EV,21,true,1,0,0,0,0,0,false,false,,0,0,0,4,0,0,false,false,Dc,SA,No Card,Messed up some algae
+1100,EV,22,false,0,0,0,1,0,0,false,false,3,1,0,2,2,0,0,false,false,Dc,DC,No Card,Dot
+501,EV,23,true,0,0,0,0,0,0,false,true,,0,0,0,0,0,1,false,false,No,DC,No Card,Algae arm broke
+3467,EV,24,true,0,0,0,0,0,0,false,true,,0,0,1,5,1,2,false,false,Dc,SA,No Card,
+1591,EV,25,true,0,0,0,1,0,0,false,true,3,0,2,1,2,0,0,false,false,No,DC,No Card,
+2079,EV,26,true,0,0,0,1,0,0,false,false,,0,0,0,4,0,0,false,false,P,DC,No Card,
+2370,EV,27,true,0,0,0,0,0,0,false,false,3,1,2,3,1,0,0,false,false,Dc,SA,No Card,
+2262,EV,28,false,0,0,0,0,0,0,false,false,,0,0,0,1,0,0,false,false,Dc,DC,No Card,Dot
+2877,EV,31,true,0,0,0,2,0,0,false,true,,0,1,1,0,0,2,false,false,P,DC,No Card,
+8085,EV,32,true,0,0,0,0,0,0,false,true,,4,0,2,0,0,0,false,false,P,DC,No Card,Coral stuck on bot
+694,EV,33,true,0,0,0,4,0,0,false,true,,3,1,3,1,5,0,false,false,Dc,SA,No Card,
+10229,EV,35,true,0,0,0,0,0,0,false,false,,1,0,0,0,0,5,false,false,P,DC,No Card,Dot
+1757,EV,37,true,0,0,0,0,0,0,false,true,3,0,0,0,6,0,0,false,false,P,DC,No Card,
+467,EV,38,true,0,0,0,1,0,0,false,false,3,0,0,3,4,0,0,false,false,P,DC,No Card,
+131,EV,39,true,0,0,0,2,0,0,false,true,,0,0,0,3,1,1,false,false,P,DC,No Card,
+1796,EV,40,true,0,0,0,1,0,0,false,true,,0,0,4,2,0,2,false,false,P,DC,No Card,Stuck on algae
+3467,EV,46,true,1,0,0,2,0,0,true,false,,0,3,6,3,0,2,false,false,P,DC,No Card,
+78,EV,47,true,0,0,0,2,0,0,false,true,,4,5,2,0,1,1,false,false,Dc,SA,No Card,
+166,EV,48,true,0,0,0,2,0,0,false,true,,0,1,7,6,0,0,false,false,Dc,SA,No Card,
+1155,EV,49,true,0,0,0,0,0,0,true,false,,0,0,0,1,0,0,false,true,No,DC,No Card,Arm broke
+467,EV,50,true,0,0,0,2,0,0,false,true,,0,2,6,5,0,0,false,false,No,DC,No Card,Stuck on algae
+2342,EV,52,true,0,0,0,2,0,0,true,false,,0,4,4,2,0,0,false,false,P,DC,No Card,
+88,EV,53,false,0,0,0,3,0,0,false,true,,5,5,4,1,2,0,false,false,Dc,SA,No Card,
+1073,EV,54,true,0,0,0,0,0,0,false,true,,0,1,3,4,1,0,false,false,Dc,MP,No Card,
+319,EV,55,true,0,0,0,1,0,0,false,true,,0,2,2,3,0,0,false,false,P,DC,No Card,
+166,Bn,1,true,0,0,0,2,0,0,false,true,3,0,4,6,4,0,0,false,false,P,MP,No Card,Failed to climb and missed one coral 
+78,Bn,2,true,0,0,0,3,0,0,false,true,,3,1,2,2,1,0,false,false,Dc,MP,No Card,Struggled to score on level 1
+8724,Bn,3,true,1,0,0,0,0,0,false,false,,0,1,0,0,0,2,false,false,No,DC,No Card,Isnt very good at scoring coral
+1796,Bn,5,true,0,0,0,4,0,0,false,true,3,1,1,0,1,1,1,false,false,Dc,SA,No Card,Missed scoring in the barge multiple times
+1277,Bn,6,true,0,0,0,2,0,0,false,false,,1,1,0,4,0,0,false,false,P,SA,No Card,Failed to climb and missed several coral
+2877,Bn,7,true,0,0,0,3,0,0,false,true,,0,1,2,1,0,1,false,false,No,DC,No Card,
+8567,Bn,8,true,0,0,0,0,0,0,false,true,3,0,0,0,0,0,0,false,false,No,DC,No Card,Did almost nothing
+5687,Bn,9,true,0,0,0,3,0,0,false,true,3,0,3,2,4,0,0,false,false,No,DC,No Card,
+10229,Bn,10,true,0,0,0,0,0,0,false,true,3,0,0,0,0,0,1,false,false,P,DC,No Card,Got coral stuck in the bot and did almost nothing
+131,Bn,11,true,0,0,0,1,0,0,false,true,,0,1,2,1,0,0,false,false,P,DC,No Card,
+6328,Bn,12,true,0,0,0,1,0,0,false,true,3,0,1,3,3,0,0,false,false,P,DC,No Card,
+4909,Bn,13,true,0,0,0,1,0,0,false,true,3,0,2,2,3,0,0,false,false,P,MP,No Card,Missed two coral during auto 
+1729,Bn,15,true,0,0,0,2,0,0,false,true,,1,1,5,3,0,0,false,false,P,DC,No Card,
+48,Bn,16,true,0,0,0,1,0,0,false,false,,3,4,1,4,0,0,false,false,No,DC,No Card,
+2079,Bn,19,false,0,0,0,1,0,0,false,false,3,0,0,3,5,0,0,false,false,P,DC,No Card,
+2370,Bn,20,true,0,0,0,0,0,0,false,true,,0,1,2,5,1,0,false,false,Dc,MP,No Card,Did nothing during auto
+4909,Bn,22,true,0,0,0,0,0,0,false,false,3,0,2,4,3,0,0,false,false,Dc,MP,No Card,Missed every time during auto
+6328,Bn,23,true,0,0,0,3,0,0,false,false,4,0,0,1,0,0,0,false,false,Dc,MP,No Card,Stopped scoring for a while 
+8567,Bn,24,true,0,0,0,0,0,0,false,false,3,0,0,1,2,0,0,false,false,P,DC,No Card,
+151,Bn,25,true,1,0,0,0,0,0,false,false,3,0,0,1,4,0,0,false,false,No,DC,No Card,Didnt score during auto?
+2423,Bn,26,true,0,0,0,1,0,0,false,false,3,0,0,0,1,0,0,false,false,P,DC,No Card,Sat by the driver stations for a long time
+2370,Bn,27,true,0,0,0,0,0,0,false,false,3,0,0,0,9,0,0,false,false,Dc,MP,No Card,
+2713,Bn,28,true,0,0,0,1,1,0,true,true,3,1,0,2,4,0,0,false,false,No,DC,No Card,
+4048,Bn,30,true,0,0,0,0,0,0,false,false,3,0,0,0,6,0,0,false,false,Dc,MP,No Card,Missed all three coral during auto
+190,Bn,31,true,0,0,0,3,0,0,false,false,,0,3,2,0,0,0,false,false,P,DC,No Card,
+151,Bn,32,true,0,0,0,1,0,0,false,true,3,0,1,1,4,0,0,false,false,P,DC,No Card,
+2342,Bn,33,true,0,0,0,3,0,0,false,false,3,0,3,3,1,0,0,false,false,Dc,MP,No Card,
+2713,Bn,35,true,1,0,0,0,0,0,false,true,3,0,0,2,1,0,1,false,false,P,DC,No Card,Missed scoring two coral during auto
+6324,Bn,36,true,0,0,0,2,0,0,false,true,,0,0,6,5,2,0,false,false,P,DC,No Card,
+2876,Bn,38,true,0,0,0,1,0,0,false,false,3,0,0,0,7,0,0,false,false,No,DC,No Card,
+3182,Bn,39,true,0,1,0,0,0,0,false,false,2,1,4,0,0,0,0,false,false,No,DC,No Card,
+319,Bn,40,true,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,true,false,No,DC,No Card,Played defense the entire game
+1768,Bn,46,true,0,0,0,4,0,0,false,true,3,0,6,3,1,0,0,false,false,Dc,MP,No Card,Most likely scored a little bit more
+1058,Bn,47,true,0,0,0,0,0,0,false,false,3,1,0,0,1,0,0,false,false,P,DC,No Card,Did almost nothing the entire match.
+1100,Bn,48,true,1,0,0,0,0,0,false,false,3,0,0,2,4,0,0,false,false,P,DC,No Card,
+9443,Bn,50,true,0,0,0,0,0,0,false,false,3,2,0,0,0,0,0,false,false,P,DC,No Card,Failed to climb and hard to intake coral.
+10063,Bn,51,true,0,0,0,0,0,0,false,false,3,0,3,6,0,0,0,false,false,Dc,DC,No Card,Held the center spot for deep climb
+5687,Bn,53,true,0,0,0,3,0,0,false,true,,0,0,5,1,2,0,false,false,Dc,MP,No Card,
+138,Bn,73,true,0,0,0,0,0,0,false,true,3,1,0,2,3,0,0,false,false,Dc,MP,No Card,Missed a lot and so did Seb.
+88,JDB,3,true,0,0,0,1,0,0,false,true,,1,6,7,5,2,0,false,false,Dc,SA,No Card,
+1100,JDB,4,false,0,0,0,2,0,0,false,false,3,0,0,0,1,0,0,false,false,P,DC,No Card,
+238,RR,1,true,0,0,0,0,0,0,false,false,,0,0,0,4,0,0,false,false,No,DC,No Card,
+1591,RR,2,true,0,0,0,0,0,0,false,false,,0,0,3,2,0,0,false,false,P,DC,No Card,
+1058,RR,3,true,0,0,0,0,0,0,false,false,,0,0,1,1,0,0,false,false,P,DC,No Card,
+151,RR,4,true,0,0,0,1,0,0,false,true,,0,0,0,0,0,0,false,false,No,DC,No Card,
+8085,RR,5,true,0,0,0,0,0,0,false,false,,0,1,1,2,0,0,false,false,P,DC,No Card,
+10063,RR,6,false,0,0,0,0,0,0,false,false,,0,1,0,1,0,0,false,false,P,DC,No Card,
+48,RR,7,true,0,0,0,0,0,0,false,false,,0,1,2,1,0,0,false,false,No,DC,No Card,
+1474,RR,8,true,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,false,false,P,DC,No Card,
+1740,RR,9,true,0,0,0,0,0,0,false,false,,1,1,0,0,0,0,false,false,Sc,SA,No Card,
+2053,RR,10,false,0,0,0,0,0,0,false,true,,0,0,2,0,0,0,false,false,No,DC,No Card,Mainly Algee 
+2053,RR,21,true,1,0,0,0,0,0,false,false,,0,0,0,0,0,0,false,false,No,DC,No Card,
+1735,RR,22,true,0,0,0,0,0,0,false,true,,0,0,0,0,0,0,false,false,No,DC,No Card,Very slow 
+6328,RR,23,true,0,0,0,0,0,0,false,false,,0,0,2,0,0,0,false,false,No,DC,No Card,
+1729,RR,24,true,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,false,false,No,DC,No Card,
+8544,RR,25,false,0,0,0,0,0,0,false,true,,0,0,1,0,0,2,false,false,P,DC,No Card,
+4575,RR,26,true,0,0,0,0,0,0,false,false,,1,0,0,0,0,0,false,false,No,DC,No Card,
+6324,RR,27,true,0,0,0,0,0,0,true,false,,0,0,2,2,0,0,false,false,P,DC,No Card,
+2713,RR,28,true,0,0,0,0,1,0,true,false,,0,0,1,3,0,1,false,false,No,DC,No Card,
+1474,RR,29,true,0,0,0,0,0,0,false,false,,0,2,0,0,0,0,false,false,P,DC,No Card,
+2084,RR,30,true,0,0,0,0,0,0,false,true,,0,0,0,0,0,1,false,false,No,DC,No Card,
+1155,RR,31,true,0,0,0,0,0,0,false,true,,0,0,0,0,1,0,false,false,No,DC,No Card,
+2265,RR,32,true,0,0,0,0,0,0,false,false,,0,0,0,6,0,0,false,false,No,DC,No Card,
+8544,RR,34,false,0,0,0,0,0,0,false,true,3,0,0,0,0,0,2,false,false,P,DC,No Card,
+157,RR,35,true,0,0,0,0,0,0,false,false,,0,2,0,0,0,0,false,false,Dc,SA,No Card,
+4575,RR,36,true,0,0,0,0,0,0,false,false,,3,0,0,0,0,0,false,false,P,DC,No Card,
+9443,RR,37,false,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,false,false,P,DC,No Card,Being very defensive 
+238,RR,38,true,0,0,0,0,0,0,false,true,,0,0,0,0,0,0,false,false,No,DC,No Card,
+2084,RR,39,true,0,0,0,0,0,0,false,false,,0,0,1,2,0,0,false,false,No,DC,No Card,
+2713,RR,47,true,0,0,0,0,0,0,false,false,,0,0,1,1,0,0,false,true,No,DC,No Card,Died near the end of the match 
+166,RR,48,true,0,0,0,0,0,0,false,false,,0,0,2,2,0,0,false,false,No,DC,No Card,
+4311,RR,49,true,0,0,0,0,0,0,false,true,,0,0,0,0,0,3,false,false,P,DC,No Card,
+175,RR,50,true,0,0,0,0,0,0,false,false,,2,0,0,1,0,0,false,false,No,DC,No Card,
+2084,RR,51,true,0,0,0,0,0,0,false,false,,0,0,0,0,0,2,false,false,No,DC,No Card,
+501,RR,52,false,0,0,0,0,0,0,false,true,,0,0,0,0,0,3,false,false,No,DC,No Card,
+2876,RR,53,true,0,0,0,1,0,0,false,false,,0,0,1,2,0,0,false,false,Sc,DC,No Card,
+2079,RR,54,true,0,0,0,0,0,0,false,false,,2,0,1,0,0,0,false,false,P,DC,No Card,
+8085,RR,55,true,0,0,0,0,0,0,false,false,,0,0,0,3,0,0,false,false,P,DC,No Card,
+2084,Am,2,true,0,0,0,0,0,0,false,false,,0,1,0,0,0,1,false,false,No,DC,No Card,Moved backwards during auto, 
+694,KD,3,true,0,0,0,3,0,0,false,true,,1,3,5,4,5,0,false,false,Dc,SA,No Card,
+319,Am,3,false,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,true,false,Dc,OT,No Card,Tried to get into the free spot and did
+6328,KD,4,true,0,0,0,3,0,0,false,true,2,0,2,5,4,0,0,false,false,Dc,SA,No Card,
+4575,Am,4,true,1,0,0,0,0,0,false,false,3,2,0,0,0,0,0,false,false,P,DC,No Card,
+1155,KD,5,true,0,0,0,0,0,0,false,true,3,2,0,0,2,1,0,true,false,No,DC,No Card,Slammed into 8085
+4041,Am,5,true,0,0,0,0,0,0,false,false,,0,0,3,0,0,2,false,false,No,DC,No Card,Was super slow at the end
+2079,KD,6,true,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,true,false,P,DC,No Card,
+9443,Am,6,true,0,0,0,0,0,0,false,false,,0,1,0,2,0,0,false,false,P,DC,No Card,
+8708,KD,7,true,0,0,0,2,0,0,false,true,3,1,2,3,1,0,0,false,false,P,DC,No Card,
+2791,Am,7,true,0,0,0,0,0,0,true,true,3,0,2,2,2,0,0,false,false,No,DC,No Card,Unsure if they received the spot for climb
+6324,KD,8,true,2,0,0,1,0,0,false,true,3,0,1,0,6,3,0,false,false,Dc,SA,No Card,
+157,Am,8,true,0,0,0,0,2,0,true,false,,0,0,0,0,0,0,false,false,Dc,SA,No Card,Good in alage and auto suffered in coral
+1768,KD,9,true,1,0,0,2,0,0,false,true,3,0,5,3,0,1,0,false,false,Dc,SA,No Card,
+7153,Am,9,true,0,0,0,1,0,0,true,true,3,3,0,0,0,2,0,false,false,No,DC,No Card,
+8544,KD,10,false,0,0,0,0,0,0,false,true,,1,2,1,0,0,1,false,false,P,DC,No Card,
+2713,Am,10,true,0,0,0,1,1,0,true,false,3,0,1,6,0,0,0,false,false,P,DC,No Card,Almost climbed
+4575,KD,11,true,0,0,0,0,0,0,false,false,3,4,0,0,0,0,0,false,false,P,DC,No Card,Only tried for L1
+151,Am,11,true,0,0,0,0,0,0,false,true,3,0,0,0,1,0,3,false,false,No,DC,No Card,
+1796,KD,12,true,0,0,0,3,0,0,false,true,,1,4,4,2,2,3,false,false,Dc,SA,No Card,
+1058,Am,12,true,0,0,0,0,0,0,false,false,3,1,1,2,4,0,0,false,false,P,DC,No Card,
+319,KD,13,true,0,0,0,0,0,0,false,false,3,0,1,0,1,0,0,false,false,P,DC,No Card,
+2265,Am,13,true,0,0,0,1,0,0,false,false,3,0,0,0,2,0,0,false,true,No,DC,No Card,Got caught on alagea at endgame
+467,KD,14,true,0,0,0,1,0,0,false,false,,0,3,2,3,0,0,false,false,Dc,SA,No Card,
+10063,Am,14,true,0,0,0,0,0,0,false,false,,0,1,0,0,0,0,true,true,No,DC,No Card,
+177,KD,15,true,0,0,0,0,0,0,false,false,2,0,0,0,1,0,0,false,false,No,DC,No Card,Unscored One
+157,Am,15,true,1,0,0,0,1,0,true,true,,0,0,0,2,1,0,false,false,No,DC,No Card,
+1768,KD,16,true,0,0,0,1,0,0,false,false,,3,2,3,1,0,0,false,false,Dc,SA,No Card,Half-Died 
+4041,Am,16,true,0,0,0,0,0,0,false,true,,0,2,1,0,0,4,false,false,Dc,DC,No Card,2 alage in other alliance processor
+10229,KD,17,true,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,false,false,No,DC,No Card,
+4311,Am,17,true,1,0,0,0,0,0,false,false,,0,0,0,0,0,2,false,false,Dc,SA,No Card,
+166,KD,18,true,0,0,0,1,0,0,false,true,3,0,2,3,5,0,0,false,false,Dc,SA,No Card,
+2713,Am,18,false,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,false,true,No,DC,No Card,Didn't move entire match
+1740,KD,19,true,0,0,0,0,0,0,false,false,3,0,3,3,1,0,0,false,false,Dc,SA,No Card,
+190,Am,19,true,0,0,0,1,0,0,false,true,3,0,0,1,3,1,2,false,false,No,DC,No Card,Got shoved off the dot
+9642,KD,20,true,1,0,0,1,0,0,false,true,3,2,3,3,0,1,0,false,false,P,DC,No Card,
+6324,Am,20,true,0,0,0,1,2,0,true,true,3,0,2,2,5,2,0,false,false,Dc,SA,No Card,
+5687,KD,21,true,0,0,0,1,0,0,false,true,3,1,3,4,3,0,1,false,false,P,DC,No Card,
+8085,Am,21,false,0,0,0,0,0,0,false,true,2,3,0,2,2,0,0,true,false,No,DC,No Card,Fought for the dot
+1277,KD,22,true,0,0,0,0,0,0,false,false,,1,2,2,1,0,2,false,false,Dc,SA,No Card,
+1768,KD,23,false,0,0,0,3,0,0,false,false,3,0,2,4,5,0,2,false,false,P,DC,No Card,
+157,Am,23,true,0,0,0,0,1,0,true,false,3,0,2,1,0,2,0,false,false,Dc,SA,No Card,
+9443,KD,24,true,0,0,0,0,0,0,false,false,,0,0,0,1,0,0,true,false,P,DC,No Card,
+1058,Am,24,true,0,0,0,0,0,0,false,false,3,0,0,0,2,0,0,false,false,P,SA,No Card,Tried to climb touched ground
+10063,Am,25,true,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,true,false,Dc,DC,No Card,Covered the dot
+88,KD,26,true,0,0,3,0,0,0,false,true,3,5,4,4,5,0,0,false,false,Dc,SA,No Card,
+7153,Am,26,true,0,0,0,1,0,0,false,true,3,1,1,0,0,2,0,false,false,Dc,DC,No Card,Covered the dot
+467,KD,27,true,0,0,1,2,0,0,false,true,3,0,0,3,5,0,0,false,false,Dc,SA,No Card,
+4311,Am,27,true,1,0,0,0,0,0,false,false,,0,0,0,0,0,5,true,false,Dc,SA,No Card,
+138,KD,28,true,0,0,0,2,0,0,false,true,3,0,0,1,3,0,3,false,false,Dc,MP,No Card,No bias
+238,Am,28,true,0,0,0,1,0,0,false,false,,1,0,0,2,0,2,false,false,No,DC,No Card,Lost the dot position
+1796,KD,29,false,0,0,0,3,0,0,false,true,,0,4,4,0,1,2,false,false,Dc,SA,No Card,
+8708,Am,29,true,0,0,0,1,0,0,true,false,,0,2,4,0,0,0,false,false,P,DC,No Card,
+177,KD,30,true,0,0,0,1,0,0,false,false,3,0,0,0,0,0,0,false,false,P,DC,No Card,
+2791,Am,30,true,0,0,0,0,0,0,false,false,3,2,0,0,2,0,0,false,false,No,DC,No Card,
+319,KD,31,true,0,0,0,1,0,0,false,true,3,0,3,0,0,0,0,false,false,P,DC,No Card,
+2053,Am,31,true,1,0,0,0,0,0,true,true,2,3,0,0,0,0,1,false,false,P,DC,No Card,Mostly alagae and L1 scoring
+1735,KD,32,true,0,0,0,0,0,0,false,true,1,0,0,0,0,6,0,false,false,P,DC,No Card,
+175,Am,32,true,0,0,0,1,0,0,false,false,3,0,3,3,0,0,0,false,false,Dc,DC,No Card,Covered the dot
+4909,KD,33,false,0,0,0,2,0,0,false,true,3,0,4,1,4,0,0,false,false,Dc,SA,No Card,
+48,Am,33,true,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,true,false,Dc,SA,No Card,
+4311,Am,34,true,1,0,0,0,0,0,false,false,,0,0,0,0,0,7,false,false,No,DC,No Card,Fought for the center dot
+7407,KD,35,false,0,0,0,3,0,0,false,true,3,0,0,4,5,0,0,false,false,Dc,SA,No Card,
+1740,Am,35,true,0,0,0,0,0,0,false,false,3,1,3,0,0,0,0,false,false,P,DC,No Card,Missed a lot in the beginning especially at L4
+5687,KD,36,true,0,0,0,2,0,0,false,true,3,0,2,2,3,0,1,false,false,Dc,SA,No Card,
+2262,Am,36,false,0,0,0,0,0,0,false,false,,1,0,0,0,0,0,false,false,P,DC,No Card,Tried to get a coral with another coral still in
+2423,KD,37,true,0,0,0,2,0,0,false,true,3,0,1,3,2,0,0,false,false,P,DC,No Card,
+2791,Am,37,true,0,0,0,0,0,0,false,false,3,0,0,0,1,0,0,false,false,No,DC,No Card,Struggled occasionally with elevator seizing up
+1591,KD,38,true,0,0,0,0,0,0,false,true,3,0,0,0,8,0,0,false,false,P,DC,No Card,
+7153,Am,38,true,0,0,0,0,0,0,false,false,,0,0,0,2,0,0,false,false,No,DC,No Card,Issued when going for L4 occasionally
+4048,KD,39,true,0,0,0,0,0,0,false,true,3,0,0,1,5,0,0,false,false,P,DC,No Card,
+1474,Am,39,true,0,0,0,0,0,0,false,false,,0,0,1,0,0,0,false,false,No,DC,No Card,For the first part did not move
+501,KD,40,true,0,0,0,0,0,0,false,true,,0,0,0,0,0,2,true,false,No,DC,No Card,
+10063,Am,40,true,0,0,0,0,0,0,false,false,3,0,5,1,0,0,0,false,false,P,DC,No Card,
+2791,KD,46,true,0,0,0,1,0,0,false,true,3,0,0,0,2,0,0,false,true,No,DC,No Card,
+177,Am,47,true,0,0,0,0,1,0,true,false,2,0,1,0,0,0,0,false,false,P,DC,No Card,
+4041,Am,48,true,0,0,0,1,0,0,false,true,3,0,3,6,0,0,2,false,false,P,DC,No Card,
+131,KD,48,true,0,0,0,1,0,0,false,false,2,0,0,0,1,4,0,false,false,Dc,SA,No Card,
+6328,KD,49,true,0,0,0,2,0,0,false,true,3,0,2,2,4,5,0,false,false,Dc,SA,No Card,
+1277,Am,49,true,0,0,0,1,0,0,false,false,,0,2,2,2,0,0,false,false,P,DC,No Card,
+238,KD,50,true,0,0,0,2,0,0,false,false,,0,0,0,2,0,0,false,false,P,DC,No Card,
+238,Am,50,true,0,0,0,0,0,0,false,false,3,0,0,0,1,0,0,false,false,Dc,DC,No Card,Got stuck on alage covered the dot
+4909,KD,51,true,0,0,0,2,0,0,false,true,3,1,2,3,4,0,0,false,false,Dc,SA,No Card,
+9642,Am,51,true,0,0,0,0,0,0,true,true,3,0,0,0,0,1,0,true,false,No,DC,No Card,Tried to get coral with a alagae in there elevator
+4048,Am,52,true,0,0,0,0,0,0,false,false,3,0,0,1,2,0,0,false,false,Dc,SA,No Card,
+2877,KD,52,true,1,0,0,1,0,0,false,true,3,0,0,3,2,0,1,false,false,Dc,SA,No Card,
+3182,KD,53,true,0,0,0,0,0,0,false,false,,0,0,0,0,0,0,true,false,P,DC,No Card,
+1735,Am,53,true,0,0,0,0,1,0,true,true,,0,0,0,0,2,0,false,false,No,DC,No Card,Tried to climb. Touched ground.
+1058,Am,54,true,0,0,0,1,0,0,false,false,3,0,0,0,3,0,0,false,false,P,DC,No Card,
+6324,KD,54,true,1,0,0,2,0,0,false,false,,0,0,0,1,0,0,false,true,No,DC,No Card,
+2423,KD,55,true,0,0,0,2,0,0,false,true,3,0,2,4,4,0,0,false,false,No,DC,No Card,
+8544,Am,55,true,0,0,0,0,0,0,false,true,3,1,1,0,0,0,0,false,false,No,DC,No Card,Missed a lot for coral
+6328,Am,56,true,0,0,0,1,0,0,false,true,2,1,3,4,5,2,0,false,false,Dc,SA,No Card,
+7407,KD,73,true,0,0,0,3,0,0,false,true,3,1,4,3,1,0,2,false,false,Dc,SA,No Card,
