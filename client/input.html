@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ProtoQR Scout</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <div class="container">
+    <h1>ProtoQR Scout</h1>
+
+     <form id="data-form">
+      <label for="scout">Scouter iniatials</label>
+      <input type="text" id="scout" name="scout" required>
+
+      <label for="startPos">Starting Position:</label>
+      <select name="startPos" id="startPos">
+        <option value="">-Select stating position-</option>
+        <option value="r1">Red 1</option>
+        <option value="r2">Red 2</option>
+        <option value="r3">Red 3</option>
+        <option value="b1">Blue 1</option>
+        <option value="b2">Blue 2</option>
+        <option value="b3">Blue 3</option>
+      </select>
+
+      <label for="matchNumber">Match Number</label>
+      <input type="number" id="matchNumber" name="matchNumber" required />
+      <!--Previous 3 fields should remain unchanged or increment by one on reset-->
+
+      <label for="teamNumber">Team Number</label>
+      <input type="number" id="teamNumber" name="teamNumber" required />
+     
+      
+      <!--Autonomous-->
+
+      <label for="autoOutpost"> Pickup at Outpost</label>
+      <input type="checkbox" id="autoOutpost" name="autoOutpost" value="Outpost">
+      <label for="autoDepot"> Pickup at Depot</label>
+      <input type="checkbox" id="autoDepot" name="autoDepot" value="Depot">
+      <label for="autoNeutral"> Pickup at Neutral Zone</label>
+      <input type="checkbox" id="autoNeutral" name="autoNeutral" value="Neutral_Zone">
+
+      <label for="autoFuel">Fuel Scored</label>
+      <input type="number" id="autoFuel" name="autoFuel" required />
+
+      <label for="autoClimb"> Auto climb</label>
+      <input type="checkbox" id="autoClimb" name="autoClimb" value="Climbed">
+
+      <!--TeleOp-->
+
+      <label for="teleFuel">Fuel Scored</label>
+      <input type="number" id="teleFuel" name="teleFuel" required />
+
+
+      <label for="travelLocation">Travel location:</label>
+      <select name="travelLocation" id="travelLocation">
+        <option value="neither">Neither</option>
+        <option value="trench">Trench</option>
+        <option value="bump">Bump</option>
+        <option value="both">Both</option>
+      </select>
+
+      <label for="teleOutpost"> Pickup at Outpost</label>
+      <input type="checkbox" id="teleOutpost" name="teleOutpost" value="Outpost">
+      <label for="teleDepot"> Pickup at Depot</label>
+      <input type="checkbox" id="teleDepot" name="teleDepot" value="Depot">
+      <label for="teleNeutral"> Pickup at Neutral Zone</label>
+      <input type="checkbox" id="teleNeutral" name="teleNeutral" value="Neutral_Zone">
+
+      <!---Endgame-->
+
+      <label for="endClimb"> Endgame climb</label>
+      <select name="endClimb" id="endClimb">
+        <option value="none">None</option>
+        <option value="t1">Tier 1</option>
+        <option value="t2">Tier 2</option>
+        <option value="t3">Tier 3</option>
+      </select>
+
+
+      <label for="died"> Died</label>
+      <input type="checkbox" id="died" name="died" value="Died">
+
+      <label for="defence">Played Defence</label>
+      <input type="checkbox" id="defence" name="defence" value="Defence">
+
+      <label for="notes">Notes</label>
+      <input type="text" id="notes" name="notes">
+
+      <button type="submit">Submit</button>
+    </form>
+
+    <p id="status"></p>
+    <div id="qr-container" style="display: none;">
+      <h2>Offline QR Backup</h2>
+      <div id="qrcode"></div>
+    </div>
+
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
+  <script src="js/input.js"></script>
+      
+
+</body>
+</html>
+
