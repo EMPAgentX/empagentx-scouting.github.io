@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const qrContainer = document.getElementById('qrcode');
     const qrWrapper = document.getElementById('qr-container');
 
+
     qrContainer.innerHTML = '';
     qrWrapper.style.display = 'none';
     statusEl.textContent = 'Submitting...';
@@ -23,6 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const result = await res.json();
       statusEl.textContent = `✅ ${result.message}`;
+      form.reset();
     } catch (err) {
       console.error(err);
       statusEl.textContent = '⚠️ Backend unreachable — generating QR fallback...';
@@ -42,6 +44,6 @@ document.addEventListener("DOMContentLoaded", () => {
       const note = document.createElement('p');
       note.className = 'text-xs text-gray-500 text-center mt-2';
       note.textContent = 'Scan or screenshot this QR to manually upload later.';
-      qrContainer.appendChild(note);
+      qrContainer.appendChild(note);      
   }
 })});

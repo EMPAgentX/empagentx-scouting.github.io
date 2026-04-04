@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const statusEl = document.getElementById('status');
     const qrContainer = document.getElementById('qrcode');
     const qrWrapper = document.getElementById('qr-container');
+    
 
     qrContainer.innerHTML = '';
     qrWrapper.style.display = 'none';
@@ -23,6 +24,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       const result = await res.json();
       statusEl.textContent = `✅ ${result.message}`;
+      document.getElementById('data-form').reset();
     } catch (err) {
       console.error(err);
       statusEl.textContent = '⚠️ Backend unreachable — generating QR fallback...';

@@ -131,6 +131,9 @@ axios.post(webhookUrl, payload, {
         'Content-Type': 'application/json'
     }
 })
+.catch(error => {
+    console.error('Error sending webhook:', error.message);
+});
   console.log("✅ Data received:", data);
   res.json({ message: "Data successfully saved!" });
 });
